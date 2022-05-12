@@ -1,0 +1,11 @@
+.border
+{
+    border: solid 1px black;
+}
+.bgcolor{
+    background-color: #0e8dad;
+    overflow: hidden;
+    text-align: center;
+    margin: 0 auto;
+
+}
